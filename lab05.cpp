@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿// Лабораторна робота 5 Робота з Git та GitHub
+#include <iostream>
 #include <cmath>
 using namespace std;
 
